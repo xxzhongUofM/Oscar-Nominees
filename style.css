@@ -1,0 +1,110 @@
+body {
+	margin: 0px;
+	padding: 0px;
+}
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 2px solid black;
+  margin: 1em 0;
+  padding: 0;
+}
+
+.oscarHeader {
+  color: black;
+	border-top: 3px solid black;
+  border-bottom: 3px solid black;
+  border-left: 3px solid black;
+  border-right: 3px solid black;
+	background: #fffff1;
+ 	padding: 0%;
+ 	width: 100%;
+  line-height: 200px;
+  height: 200px;
+  font-size: 40px;
+ 	top: 0;
+	text-align: center;
+	font-weight: bold;
+	position: fixed;
+}
+
+.oscarContent {
+	margin: 10px;
+	margin-top: 210px;
+}
+
+.dong {
+  border-radius: 15px;
+	border: 4px solid blue;
+	display: inline-block;
+}
+
+.movieBorder {
+	border: 2px solid transparent;
+	display: inline-block;
+}
+
+.movie {
+	vertical-align: top;
+  display: inline-block;
+  text-align: center;
+  margin: 8px;
+}
+
+.past {
+	font-size: 20px;
+}
+
+#leftTrophie {
+	width: 75px;
+	float: left
+}
+
+#rightTrophie {
+	width: 75px;
+	float: right;
+}
+
+#year {
+	font-weight: bold;
+	font-size: 24px;
+  margin-bottom: 0px;
+  margin-left: 10px;
+}
+
+#category {
+	font-weight: bold;
+  font-size: 18px;
+  margin-left: 10px;
+  margin-bottom: 0px;
+}
+
+#bestPic {
+  width: 200px;
+  font-weight: bold;
+}
+
+#title {
+  max-width: 200px;
+	display: block;
+	font-style: italic;
+	font-size: 15px;
+	margin: 0px;
+	margin-bottom: 10px;
+	color: black;
+}
+
+#winner {
+	display: block;
+	color: blue;
+	font-size: 15px;
+  margin: 0px;
+  border-radius: 25px;
+}
+
+#air {
+  margin-left: 10px;
+  margin-top: 0px;
+}
